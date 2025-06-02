@@ -1,0 +1,18 @@
+{
+    "exclude_list": [
+        "C:\\Windows",
+        "C:\\Users\\theal\\AppData\\Local\\Packages",
+        "C:\\Users\\theal\\AppData\\Local\\Temp",
+        "C:\\Users\\theal\\AppData\\Roaming",
+        "C:\\ProgramData",
+        "C:\\Program Files (x86)",
+        "C:\\Program Files"
+    ],
+    "allowed_file_types": [
+        "*.*"
+    ],
+    "only_scan_larger_than": null,
+    "scan_extensions_only": [],
+    "duplicate_criteria": "name_size",
+    "delete_method": "recycle_bin"
+}

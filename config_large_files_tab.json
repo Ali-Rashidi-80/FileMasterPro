@@ -1,0 +1,13 @@
+{
+    "scan_extensions": [],
+    "min_file_size": 100,
+    "delete_method": "recycle_bin",
+    "safe_mode_enabled": true,
+    "safe_mode_excludes": [
+        "C:\\Windows",
+        "C:\\Users\\theal\\AppData\\Roaming",
+        "C:\\ProgramData",
+        "C:\\Program Files (x86)",
+        "C:\\Program Files"
+    ]
+}
